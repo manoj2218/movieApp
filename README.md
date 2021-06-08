@@ -33,4 +33,25 @@ Manoj
 
 2010127
 
+## Screenshots
+
+## Home page
+
+![image](https://user-images.githubusercontent.com/72420269/121122262-1d712e80-c7ef-11eb-86d2-c3196f772fda.png)
+
+
+## Movies page
+
+![image](https://user-images.githubusercontent.com/72420269/121122191-fadf1580-c7ee-11eb-94b0-8ba96f941e27.png)
+
+## Genres page
+
+![image](https://user-images.githubusercontent.com/72420269/121122341-41cd0b00-c7ef-11eb-9487-2a678c03b280.png)
+
+## TV Shows section
+
+![image](https://user-images.githubusercontent.com/72420269/121122417-6aed9b80-c7ef-11eb-99a2-3c7fd09dd20f.png)
+
+
+
 
